@@ -1,4 +1,4 @@
-#Generative stuff
+# Generative stuff
 
 This repository contains results of my experiments with generative art, procedural generation, l-systems etc.
 
