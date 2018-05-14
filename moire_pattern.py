@@ -2,7 +2,7 @@
 """
 Created on Sat Apr 14 13:50:47 2018
 
-@author: kfgf831
+@author: AG
 """
 
 import matplotlib.pyplot as plt
